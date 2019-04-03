@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GRP 13 DEMO.unity
+  isLoaded: 1
+  isActive: 1
