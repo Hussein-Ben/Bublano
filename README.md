@@ -6,6 +6,10 @@
 
 download and unzip repo, then simply double click DEMO.exe in the FINAL DEMO FULL BUILD folder (Bublano/FINAL DEMO FULL BUILD/DEMO.exe)
 
+# Requirements
+
+a VR capable machine with steamVR installed and a htc vive HMD. 
+
 ### see final report in repo, explains concept.
 
-### Unity source code
+### Unity source code: Bublano/FINAL DEMO Unity source/
